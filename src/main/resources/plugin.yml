@@ -1,0 +1,6 @@
+name: JumpPad
+version: '${project.version}'
+main: net.clustlight.spigot.jumppad.JumpPad
+api-version: 1.17
+authors: [ 0scarLX ]
+description: Plus Ultra!!
